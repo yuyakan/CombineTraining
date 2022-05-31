@@ -1,3 +1,3 @@
 # CombineTraining
-combineを使ったMVVM設計練習用のプロジェクト
+combineを使ったMVVM設計練習用のプロジェクト。
 storyboardを使ったものとSwiftUIを使ったものの2つのプロジェクトがある
